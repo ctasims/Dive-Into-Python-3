@@ -1,3 +1,7 @@
+# Chapter 2: Data Types
+
+Time complexity data from the [python wiki](https://wiki.python.org/moin/TimeComplexity).
+
 ## 2.2 Booleans
 True or False.
 Can be treated as numbers: True = 1, False = 0.
@@ -142,3 +146,13 @@ Note that dicts have a fast-path that only deals with Str keys which speeds up t
 
 * copy and iteration are both O(n) in average and worst-case.
 * get, set, delete are O(1) average, O(n) worst.
+
+
+## 2.8 None
+`None` is a special constant value. It is not equivalent to anything else.
+It is Python's null value and has it's own datatype - `NoneType`.
+Note that variables equal to `None` will be equal to each other.
+
+In boolean contexts:
+* `None` is False. 
+* `not None` is True.
