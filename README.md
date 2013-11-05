@@ -1,4 +1,4 @@
-# Dive-Into-Python-3
+# Dive Into Python 3
 
 This project is comprised of my exercises and notes on **Dive Into Python 3** by Mark Pilgrim.
 
