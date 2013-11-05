@@ -2,15 +2,11 @@
 
 ## Summary
 
-6.2 Introduces more tools to our regexp toolbox: matching characters, negations and group references.
-
-6.3 Functions are objects are can be stored and referred to as such.
-
-6.4 Using the closure concept to generate dynamic functions for regexp matching.
-
-6.5 Separate data from code by storing regexp pattern, search and replace strings in a text file.
-
-6.6 Generators are "resumable" functions and lazily operate through their logic.
+6.2 Introduces more tools to our regexp toolbox: matching characters, negations and group references.  
+6.3 Functions are objects are can be stored and referred to as such.  
+6.4 Using the closure concept to generate dynamic functions for regexp matching.  
+6.5 Separate data from code by storing regexp pattern, search and replace strings in a text file.  
+6.6 Generators are "resumable" functions and lazily operate through their logic.  
 
 
 ## 6.2 Using Regular Expressions

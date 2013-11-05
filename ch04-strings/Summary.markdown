@@ -2,12 +2,12 @@
 
 ## Summary
 
-4.2 Brief history and intro to Unicode and character encodings.
-4.3 Python and (Unicode) strings
-4.4 String formatting: using compound field names to access data and format specifiers to render it as desired.
-4.5 Various String methods like converting between case and slicing, which acts just like list slicing!
-4.6 Python 3 implements a separation of text and data through strings and bytes. Use `encode()` and `decode` methods to convert between them, based on a character encoding.
-4.7 How to change the character encoding of a `.py` file. Default is UTF-8.
+4.2 Brief history and intro to Unicode and character encodings.  
+4.3 Python and (Unicode) strings.  
+4.4 String formatting: using compound field names to access data and format specifiers to render it as desired.  
+4.5 Various String methods like converting between case and slicing, which acts just like list slicing!  
+4.6 Python 3 implements a separation of text and data through strings and bytes. Use `encode()` and `decode` methods to convert between them, based on a character encoding.  
+4.7 How to change the character encoding of a `.py` file. Default is UTF-8.  
 
 
 ## Takeaway

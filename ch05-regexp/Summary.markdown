@@ -2,17 +2,12 @@
 
 ## Summary
 
-5.1 Regular expressions are a pattern-matching tool for strings.
-
-5.2 Seemingly-simple text parsing tasks can become complicated quickly. RegExps can maintain the simplicity.
-
-5.3 Covers basic regexp patterns for matching hundreds and thousands places of Roman Numerals using `^`, `$`, `?`, `|`, `()`.
-
-5.4 `{n,m}` syntax for more concise expressions.
-
-5.5 Verbose regular expressions can be used to inline documentation into the pattern.
-
-5.6 Getting data from regexps using groups and more complicated expressions.
+5.1 Regular expressions are a pattern-matching tool for strings.  
+5.2 Seemingly-simple text parsing tasks can become complicated quickly. RegExps can maintain the simplicity.  
+5.3 Covers basic regexp patterns for matching hundreds and thousands places of Roman Numerals using `^`, `$`, `?`, `|`, `()`.  
+5.4 `{n,m}` syntax for more concise expressions.  
+5.5 Verbose regular expressions can be used to inline documentation into the pattern.  
+5.6 Getting data from regexps using groups and more complicated expressions.  
 
 
 ## 5.2 Case Study: Street Addresses

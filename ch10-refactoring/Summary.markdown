@@ -2,9 +2,9 @@
 
 ## Summary
 
-10.1 Get into the habit of writing tests for new bugs before fixing them.
-10.2 Update test cases to match changing requirements, then update code.
-10.3 Unit tests allow for large-scale refactorin without added stress.
+10.1 Get into the habit of writing tests for new bugs before fixing them.  
+10.2 Update test cases to match changing requirements, then update code.  
+10.3 Unit tests allow for large-scale refactorin without added stress.  
 
 * Simplicity is a virtue, especially when dealing with regular expressions.
 * Thorough unit tests allow for stress-free refactoring.
